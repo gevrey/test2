@@ -15,9 +15,9 @@
         android:id="@+id/button1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
         android:layout_alignRight="@+id/textView1"
-        android:layout_below="@+id/textView1"
-        android:layout_marginTop="64dp"
+        android:layout_marginBottom="184dp"
         android:text="@string/button_close" />
 
 </RelativeLayout>
